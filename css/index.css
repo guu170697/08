@@ -23,7 +23,7 @@
 }
 
 .first-view-text h1 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "cursive", sans-serif;
     font-size: 56px;
     line-height: 72px;
 }
@@ -98,7 +98,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Cherry Bomb One', cursive;
+    font-family: 'cursive', cursive;
 }
 
 @media (max-width: 800px) {
