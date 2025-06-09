@@ -23,7 +23,7 @@
 }
 
 .first-view-text h1 {
-    font-family: "cursive", sans-serif;
+    font-family: "MS Pゴシック", serif;
     font-size: 56px;
     line-height: 72px;
 }
@@ -98,7 +98,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'cursive', cursive;
+    font-family: 'MS Pゴシック', serif;
 }
 
 @media (max-width: 800px) {
